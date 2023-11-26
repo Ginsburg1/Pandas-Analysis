@@ -8,7 +8,7 @@ Churn_Modelling.xlsx: Dataset related to churn modelling.
 CandySalesGreatChefs.xlsx: Dataset containing candy sales data.
 
 # Dependencies:
-Python 3.11 or greater 
+Python 3.11 or greater.
 Libraries: pandas, numpy, scipy, matplotlib, statsmodels
 
 
